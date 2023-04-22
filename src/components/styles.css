@@ -1,0 +1,24 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th,
+  td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #333;
+    color: white;
+  }  
+
+.pred-hdr {
+    margin: 40px 0 30px;
+}
+
+.fp-inp {
+    margin-bottom: 10px;
+}
