@@ -1,6 +1,6 @@
 # Fake Detect Front-end Codebase
 
-Hey! This repo has the code for the front-end app of Fake Profile Detection AIML minor project. The front-end is built by `React` & `React-Bootstrap`.
+This repo has the code for the front-end app of Fake Profile Detection AIML minor project. The front-end is built by `React` & `React-Bootstrap`.
 
 Pages:
 
